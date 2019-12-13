@@ -11,3 +11,5 @@ set number
 set cursorline
 set showmatch
 set wildmenu
+
+au BufEnter,BufRead *.conf setf dosini
