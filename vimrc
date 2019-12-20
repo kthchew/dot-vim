@@ -12,4 +12,7 @@ set cursorline
 set showmatch
 set wildmenu
 
+set incsearch
+set hlsearch
+
 au BufEnter,BufRead *.conf setf dosini
