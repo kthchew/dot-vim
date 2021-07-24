@@ -2,7 +2,7 @@ color codedark
 syntax on
 
 set autoindent
-filetype indent on
+filetype plugin indent on
 
 set tabstop=4
 set softtabstop=4
