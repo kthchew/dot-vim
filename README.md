@@ -7,3 +7,4 @@ My (currently very basic) `.vim` configs, so that I can quickly put them on mult
 
 ## Plugins
 - [`Auto Pairs`](https://github.com/jiangmiao/auto-pairs)
+- [`indentLine`](https://github.com/Yggdroot/indentLine)
