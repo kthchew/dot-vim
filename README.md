@@ -2,6 +2,11 @@
 
 My (currently very basic) `.vim` configs, so that I can quickly put them on multiple devices.
 
+## Installation
+```
+git clone --recurse-submodules https://github.com/kthchew/dot-vim.git ~/.vim
+```
+
 ## Color Schemes
 - [`vim-code-dark`](https://github.com/tomasiser/vim-code-dark)
 
